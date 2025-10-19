@@ -1,0 +1,109 @@
+.responsiveBarImage {
+  width: 100% !important;
+  height: 60px !important;
+}
+
+.listIcon {
+  color: white !important;
+}
+
+.barListItemButton {
+  background-color: white;
+  padding-left: 12px !important;
+}
+
+.active {
+  background: white !important;
+  color: black !important;
+}
+
+.active .listIcon {
+  background: white !important;
+  color: black !important;
+}
+
+.barListItemButton:hover {
+  background: #39287b !important;
+}
+
+.barListItemButton:active {
+  background: white !important;
+  color: #150f2e !important;
+}
+
+.barFooter {
+  position: absolute !important;
+  bottom: 0 !important;
+  margin-bottom: 20px !important;
+  padding-left: 5% !important;
+}
+
+.fontStyle1 {
+  font-size: 15px;
+  font-weight: bolder;
+  margin-left: 15%;
+  color: white;
+}
+
+.fontStyle2 {
+  font-size: 14px;
+  color: white;
+}
+
+.appbar {
+  background-color: white !important;
+  height: 60px !important;
+}
+
+.toolbar {
+  margin-right: 2 !important;
+  color: grey !important;
+}
+
+.barTypography {
+  color: black;
+  flex-grow: 1 !important;
+}
+
+.profileTypography {
+  color: black;
+  font-size: 14px !important;
+  padding-left: 15px !important;
+}
+
+.barAvatar {
+  background-color: #2f3192e3 !important;
+  margin-right: 1% !important;
+}
+
+.barIconColor {
+  color: red !important;
+  font-weight: bold !important;
+}
+
+.barDialog {
+  background-color: black;
+  width: 30% !important;
+  margin-left: 40% !important;
+}
+
+.barDialogTitle {
+  text-align: center !important;
+  font-size: 20px !important;
+  font-weight: bold !important;
+  background-color: white !important;
+  margin-bottom: 20px !important;
+  color: #fafafa !important;
+}
+
+.barAlert {
+  margin-left: 5% !important;
+  width: 90% !important;
+}
+
+.barDialogButton {
+  justify-content: center !important;
+  width: 24% !important;
+  margin-right: 15px !important;
+  margin-top: 10px !important;
+}
